@@ -1,5 +1,7 @@
 # octopuslab - Raspberry Pi
-temp_cz
+
+octopusLAB DEVboard
+<hr />
 
 <pre>
                Pin 1 Pin2
